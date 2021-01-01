@@ -1,4 +1,4 @@
-Buenos días soy Marco
+Buenos días soy Marco y tengo 22 años
 
 este es mi segunda prueba con git en un curso de platzi
 
