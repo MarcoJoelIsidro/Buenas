@@ -4,4 +4,6 @@ este es mi segunda prueba con git en un curso de platzi
 
 Mas 1
 
+Mas 2
+
 Hasta luego
