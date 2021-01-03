@@ -2,6 +2,8 @@ Buenos días soy Marco y tengo 40 años
 
 Prueba 1
 
+Prueba 2
+
 este es mi segunda prueba con git en un curso de platzi
 
 <<<<<<< HEAD
